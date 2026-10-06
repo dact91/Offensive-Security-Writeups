@@ -1,4 +1,4 @@
-# CTF & Offensive Security Writeups
+# Offensive Security Writeups
 
 Writeups documenting my hands-on offensive security practice — enumeration, exploitation, and privilege escalation across Linux, Windows AD, and multi-host AD environments.
 
